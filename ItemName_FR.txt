@@ -1,0 +1,18 @@
+ItemName_FR = {
+	ItemName_Packing.10pk9 = "10 x Caisses de munitions 9mm",
+	ItemName_Packing.5pk9 = "5 x Caisses de munitions 9mm",
+	ItemName_Packing.10pk38 = "10 x Caisses de munitions spécial .38",
+	ItemName_Packing.5pk38 = "5 x Caisses de munitions spécial .38",
+	ItemName_Packing.10pk44 = "10 x Boîtes de munitions Magnum .44",
+	ItemName_Packing.5pk44 = "5 x Boîtes de munitions Magnum .44",
+	ItemName_Packing.10pk45 = "10 x Caisses de munitions .45",
+	ItemName_Packing.5pk45 = "5 x Caisses de munitions .45",
+	ItemName_Packing.10pk223 = "10 x Caisses de munitions .223",
+	ItemName_Packing.5pk223 = "5 x Caisses de munitions .223",
+	ItemName_Packing.10pk308 = "10 x Caisses de munitions .308",
+	ItemName_Packing.5pk308 = "5 x Caisses de munitions .308",
+	ItemName_Packing.10pk556 = "10 x Caisses de munitions 5.56mm",
+	ItemName_Packing.5pk556 = "5 x Caisses de munitions 5.56mm",
+	ItemName_Packing.10pkShotgun = "10 x Boîtes de munitions pour fusil de chasse",
+	ItemName_Packing.5pkShotgun = "5 x Boîtes de munitions pour fusil de chasse",
+}
